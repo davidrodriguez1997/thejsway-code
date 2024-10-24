@@ -1,6 +1,5 @@
 /*
-Display your name and age
+Display your name
 */
 
-console.log("Baptiste");
-console.log(40);
+console.log("David Rodriguez");
